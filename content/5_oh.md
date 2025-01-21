@@ -16,7 +16,7 @@ The practice of oral history initiatives in the United States was first populari
 
 <br>
 
-**As the Digital Initiatives Librarian**, one of the things I focus on is transcribing our own oral history recordings and creating subject tags so researchers can keyword search and make connections between material, whereas listening through audio linearly for material that may or may not be in a recording has previously made this material a little daunting to researchers. 
+**As the Digital Initiatives Librarian**, one of the things I focus on is [transcribing our own oral history recordings](https://uidaholib.github.io/digital-collections-docs/content/transcription/00-intro.html) and creating subject tags so researchers can keyword search and make connections between material, whereas listening through audio linearly for material that may or may not be in a recording has previously made this material a little daunting to researchers. 
 
 <br>
 
@@ -24,19 +24,21 @@ The practice of oral history initiatives in the United States was first populari
 
 <br>
 
-To provide an example of an audio narrative I worked on where oral history recordings were key was a piece called Mary Hillaire and the Lummi Nation: Self Determination. The [digital exhibit](https://collections.evergreen.edu/s/selfdetermination/page/Introduction) (which has some corruptions in it since it was originally created *finger wag*) and [half hour long audio version](https://100tacks.bandcamp.com/album/mary-hillaire-and-the-lummi-nation-self-determination) that I created detail the life of Coast Salish Lummi and adult higher education reformer Mary Hillaire through the dictaphone tapes they prolifically recorded during Hillaire’s tenure  at State College between 1971 to her passing in 1982. 
+To provide an example of an audio narrative I worked on where oral history recordings were key was a piece called Mary Hillaire and the Lummi Nation: Self Determination. The [digital exhibit](https://collections.evergreen.edu/s/selfdetermination/page/Introduction){:target="_blank" rel="noopener"} (which has some corruptions in it since it was originally created *finger wag*) and [half hour long audio version](https://100tacks.bandcamp.com/album/mary-hillaire-and-the-lummi-nation-self-determination){:target="_blank" rel="noopener"} that I created detail the life of Coast Salish Lummi and adult higher education reformer Mary Hillaire through the dictaphone tapes they prolifically recorded during Hillaire’s tenure  at State College between 1971 to her passing in 1982. 
 
 <br>
 
-**The mountain of [2142 audio cassettes](https://archiveswest.orbiscascade.org/ark:80444/xv44659)** was extremely daunting for archivists to work through–recording quality was often very low, sometimes the dictaphone was placed on surfaces that were prone to distortion and Hillaire’s oratory style, as she monologues in satellite class rooms on reservations across the Olympia, recapped her day and even recorded phone conversations, could be difficult to follow at times. Through sampling different areas of the tapes over time, conducting contemporary interviews with people that worked with Hillaire and composing a simple soundtrack using the clicks and pops of the tapes themselves, I created an audio narrative that paints a necessarily complicated portrait of a reformer that was perpetually at odds both with her largely White, supposedly progressive administration and her Indigenous community, who made Hilliare feel that she had compromised her values by working inside the institution.
+**The mountain of [2142 audio cassettes](https://archiveswest.orbiscascade.org/ark:80444/xv44659){:target="_blank" rel="noopener"}** was extremely daunting for archivists to work through–recording quality was often very low, sometimes the dictaphone was placed on surfaces that were prone to distortion and Hillaire’s oratory style, as she monologues in satellite class rooms on reservations across the Olympia, recapped her day and even recorded phone conversations, could be difficult to follow at times. Through sampling different areas of the tapes over time, conducting contemporary interviews with people that worked with Hillaire and composing a simple soundtrack using the clicks and pops of the tapes themselves, I created an audio narrative that paints a necessarily complicated portrait of a reformer that was perpetually at odds both with her largely White, supposedly progressive administration and her Indigenous community, who made Hilliare feel that she had compromised her values by working inside the institution.
 
 <br>
 
 **Here is an example** of how you can create a dialogue within a narrative using multiple oral history recordings and the weight and authenticity that comes from having a research subject relay their own words that quoting on paper just can’t.  
 
-clip
-
 <br>
+
+{% include feature/audio.html objectid="/images/em_03.mp3" %}
+
+{% include feature/alert.html text="What were some of the different elements that you heard? What are the primary sources and what were other types of sources I was maybe narrating?" color="light" align="right" %}
 
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>
@@ -48,18 +50,18 @@ clip
 
 A few different places to locate oral history material:
 
-- [Searching our audio material at the U of I](https://digital.lib.uidaho.edu/search?Format=audio%2Fmp3)
-- [Many Paths Many Voices, University of Washington digital collection](https://content.lib.washington.edu/ohcweb/index.html)
-- [Audio material at the Internet Archive](https://archive.org/details/audio)
-- [Digital Public Library of America](https://dp.la/search?type=%22sound%22)
+- [Searching our audio material at the U of I](https://digital.lib.uidaho.edu/search?Format=audio%2Fmp3){:target="_blank" rel="noopener"}
+- [Many Paths Many Voices, University of Washington digital collection](https://content.lib.washington.edu/ohcweb/index.html){:target="_blank" rel="noopener"}
+- [Audio material at the Internet Archive](https://archive.org/details/audio){:target="_blank" rel="noopener"}
+- [Digital Public Library of America](https://dp.la/search?type=%22sound%22){:target="_blank" rel="noopener"}
     - Collection of nationwide digital collections
-- [Calisphere](https://calisphere.org/search/?q=)
+- [Calisphere](https://calisphere.org/search/?q=){:target="_blank" rel="noopener"}
     - Collection of California state collections
 - [American Folklife Center at the Library of Congress](https://www.loc.gov/research-centers/american-folklife-center/collections/digital-collections/)
-- [Columbia Center for Oral History](https://www.ccohr.incite.columbia.edu/)
-- [Densho Digital Repository](https://densho.org/collections/)
+- [Columbia Center for Oral History](https://www.ccohr.incite.columbia.edu/){:target="_blank" rel="noopener"}
+- [Densho Digital Repository](https://densho.org/collections/){:target="_blank" rel="noopener"}
     - Focus on Japanese American Experience
-- [Oral History Association Directory of Centers and Collections](https://oralhistory.org/centers-and-collections/)
+- [Oral History Association Directory of Centers and Collections](https://oralhistory.org/centers-and-collections/){:target="_blank" rel="noopener"}
 
 <br>
 

@@ -10,7 +10,22 @@ gallery: true
 
 <br>
 
-clip:
+{% include feature/audio.html objectid="/images/tideflats_excerpts.mp3" %}
+
+{% include feature/alert.html text="What were some of the different elements that you heard? What are the primary sources and what were other types of sources I was maybe narrating?" color="light" align="right" %}
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
+
+In that recording, a summary of elements might be:
+
+- Field recording (ambient sense of place)
+- Background music (maybe used as reader cues that we are going backwards or forward in time)
+- Narration
+- Oral history recording
+- Sound clips (kendo sparring, streetcars)
+- Multiple documents, news articles and scholarly journal excerpts that I am weaving into the narration
 
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>
@@ -26,13 +41,13 @@ Here are some places you can locate copyright free sound design and music to use
 
 <br>
 
-- [BBC Sounds Effects Library](https://sound-effects.bbcrewind.co.uk/search)
-    - To give a sense of the volume of this copyright free library, please enjoy the 462 different recordings of [bus ticket machines](https://sound-effects.bbcrewind.co.uk/search?q=ticket%20machine) available.
-- [Openverse](https://openverse.org/)
-- [SoundBible](https://soundbible.com/)
-- [Freesound](https://freesound.org/)
-- [Zapsplat](https://www.zapsplat.com/registration/)
-- [Pixabay Audio](https://pixabay.com/sound-effects/) **+music**
+- [BBC Sounds Effects Library](https://sound-effects.bbcrewind.co.uk/search){:target="_blank" rel="noopener"}
+    - To give a sense of the volume of this copyright free library, please enjoy the 462 different recordings of [bus ticket machines](https://sound-effects.bbcrewind.co.uk/search?q=ticket%20machine){:target="_blank" rel="noopener"} available.
+- [Openverse](https://openverse.org/){:target="_blank" rel="noopener"}
+- [SoundBible](https://soundbible.com/){:target="_blank" rel="noopener"}
+- [Freesound](https://freesound.org/){:target="_blank" rel="noopener"}
+- [Zapsplat](https://www.zapsplat.com/registration/){:target="_blank" rel="noopener"}
+- [Pixabay Audio](https://pixabay.com/sound-effects/){:target="_blank" rel="noopener"} **+music**
 
 <br>
 
@@ -40,7 +55,7 @@ Here are some places you can locate copyright free sound design and music to use
 
 <br>
 
-- [Free Music Archive](https://freemusicarchive.org/home)
-- [Envato](https://elements.envato.com/audio/royalty-free-music)
+- [Free Music Archive](https://freemusicarchive.org/home){:target="_blank" rel="noopener"}
+- [Envato](https://elements.envato.com/audio/royalty-free-music){:target="_blank" rel="noopener"}
 
 <br>
