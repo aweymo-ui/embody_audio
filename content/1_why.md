@@ -8,10 +8,6 @@ gallery: true
 
 Hello, my name is [Andrew Weymouth](https://www.lib.uidaho.edu/about/people/aweymouth.html){:target="_blank" rel="noopener"} and I work at the University of Idaho as the Digital Initiatives Librarian in the [Center for Digital Inquiry and Learning (CDIL)](https://cdil.lib.uidaho.edu/){:target="_blank" rel="noopener"} department. My work generally consists of [creating and maintaining our digital collections](https://www.lib.uidaho.edu/digital/){:target="_blank" rel="noopener"}, helping to rethink processes and introducing new digital scholarship tools to the department.
 
-<div class="symbol-container">
-    <p class="symbol">&#10042;</p>
-</div>
-
 <br>
 
 **In addition to working in digital scholarship**, I’ve also contributed to a few different projects that have utilized the audio medium to present historical research. Producing research in nontraditional formats like audio and digital exhibits is sometimes undervalued in academia because the peer reviewed article is a more easily quantifiable and recognized metric of achievement. Consequently, a lot of fascinating discoveries and connections never have an audience outside of the scholarly bubble, because the formatting, language and structuring that makes those research papers easier to quantify to academic reviewers also make them intimidating and arcane to many readers. 
@@ -19,5 +15,9 @@ Hello, my name is [Andrew Weymouth](https://www.lib.uidaho.edu/about/people/awey
 <br>
 
 In contrast, using the medium of audio is an opportunity to humanize your research on almost every level. Rewriting your work to be spoken is a great opportunity to simplify and simplify your language. This process is not only helpful in conveying your story to a wider audience but can also achieve an effect of revealing weaker historical arguments or speculation once the jargon has been blown off of the text. Making these discoveries through the act of converting your research into other mediums will ultimately make your text versions stronger in the end.
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 <br>

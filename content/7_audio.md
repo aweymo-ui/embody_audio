@@ -18,16 +18,12 @@ gallery: true
 
 In that recording, a summary of elements might be:
 
-- Field recording (ambient sense of place)
-- Background music (maybe used as reader cues that we are going backwards or forward in time)
+- Field recording
+- Background music
 - Narration
 - Oral history recording
 - Sound clips (kendo sparring, streetcars)
 - Multiple documents, news articles and scholarly journal excerpts that I am weaving into the narration
-
-<div class="symbol-container">
-    <p class="symbol">&#10042;</p>
-</div>
 
 <br>
 
@@ -55,5 +51,9 @@ Here are some places you can locate copyright free sound design and music to use
 
 - [Free Music Archive](https://freemusicarchive.org/home){:target="_blank" rel="noopener"}
 - [Envato](https://elements.envato.com/audio/royalty-free-music){:target="_blank" rel="noopener"}
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 <br>

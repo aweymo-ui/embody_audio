@@ -10,11 +10,9 @@ gallery: true
 
 <br>
 
-<div class="symbol-container">
-    <p class="symbol">&#10042;</p>
-</div>
-
 ## The Tideflats
+
+<br>
 
 {% include gallery-figure.html img="carstens_05_SOC_110.png" alt="Alt: Aerial map of the Tideflats area from the midcentury" caption="Map of the Industrial Area of Tacoma, Washington, created by the National Bank of Washington, ca. 1950s." title="Map of the Industrial Area of Tacoma, Washington, created by the National Bank of Washington, ca. 1950s." %}
 
@@ -27,5 +25,9 @@ I opened by walking to the area, which was only about 15 minutes from where I li
 {% include gallery-figure.html img="Napkin2.jpg" alt="hand drawn letter e with multiple point written on a napkin" caption="The E" title="The E" %}
 
 Teacher and radio producer Rob Rosenthal suggests another storytelling structure that may be more dynamic than a linear timeline; [the ‘e’](https://transom.org/2016/story-structure-e/){:target="_blank" rel="noopener"}.[<sup>9</sup>](8_conclusion.html#notes) Instead of starting from the  chronological beginning and working incrementally to the end, you begin at the middle during a particularly interesting or emblematic event, swoop backwards, reiterate the middle again (perhaps from another narrative perspective) and then arrive at the end of your chronology. Dropping listeners in the middle of a curious, incredible or volatile scene can help hook listeners and get them interested in the combination of events that led up to it. 
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 <br>

@@ -36,10 +36,6 @@ To provide an example of an audio narrative I worked on where oral history recor
 
 {% include feature/audio.html objectid="/images/em_03.mp3" %}
 
-<div class="symbol-container">
-    <p class="symbol">&#10042;</p>
-</div>
-
 <br>
 
 ## Resources and Directories
@@ -62,5 +58,9 @@ A few different places to locate oral history material:
 <br>
 
  {% include alert.html text="Note: If you can’t find what you are looking for in these collections, remember that the vast majority of all archival material has not been digitized and made publicly available. Search our special collections using this [Archives West](https://archiveswest.orbiscascade.org/search.php?r=idu&q=) database. If you do find something of interest, reach out to the very talented folks in Special Collections at `libspec@uidaho.edu`, who can arrange an appointment in our reading room where you can listen through the audio material." color="light" align="right" %}
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 <br>

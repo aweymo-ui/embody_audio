@@ -14,12 +14,6 @@ Moreover, the process of recording, observing and speaking to people in your are
 
 <br>
 
-<div class="symbol-container">
-    <p class="symbol">&#10042;</p>
-</div>
-
-<br>
-
 ## Notes
 
 <br>

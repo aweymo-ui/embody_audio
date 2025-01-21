@@ -35,12 +35,12 @@ This was part of a public history series that I produced a while ago that explor
 
 <br>
 
+## Helpful Guides
+
+**Radio producer Jay Allison** has a great [guide to the basics of interviewing](https://transom.org/2013/the-basics/){:target="_blank" rel="noopener"} [<sup>7</sup>](8_conclusion.html#notes){:target="_blank" rel="noopener"} people these uncontrolled or semi-controlled spaces, such as recording at an interviewee’s house–where innocuous objects like “air conditioners, fluorescent lights, refrigerators” can tamper with recording quality. Teacher and radio producer Rob Rosenthal also has some a wealth of great articles on the Transom site around setting the tone with interviewees, being mindful of your own speech that may trip you up later on in the edit and interesting thoughts around [structuring your interview questions like a good story](https://transom.org/2024/structure-interviews-like-a-good-story/){:target="_blank" rel="noopener"} [<sup>8</sup>](8_conclusion.html#notes){:target="_blank" rel="noopener"} to yield the best narrative results. 
+
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>
 </div>
 
 <br>
-
-## Helpful Guides
-
-**Radio producer Jay Allison** has a great [guide to the basics of interviewing](https://transom.org/2013/the-basics/){:target="_blank" rel="noopener"} [<sup>7</sup>](8_conclusion.html#notes){:target="_blank" rel="noopener"} people these uncontrolled or semi-controlled spaces, such as recording at an interviewee’s house–where innocuous objects like “air conditioners, fluorescent lights, refrigerators” can tamper with recording quality. Teacher and radio producer Rob Rosenthal also has some a wealth of great articles on the Transom site around setting the tone with interviewees, being mindful of your own speech that may trip you up later on in the edit and interesting thoughts around [structuring your interview questions like a good story](https://transom.org/2024/structure-interviews-like-a-good-story/){:target="_blank" rel="noopener"} [<sup>8</sup>](8_conclusion.html#notes){:target="_blank" rel="noopener"} to yield the best narrative results. 
