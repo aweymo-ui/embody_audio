@@ -8,7 +8,7 @@ gallery: true
 
 - [slide deck](https://indd.adobe.com/view/adc87450-b051-48c2-86e5-c6ffe8cbecef){:target="_blank" rel="noopener"}
 
-Introductory guide to using the citation manager Zotero to organize scholarly materials, create bibliographies, summarize annotations, collaborate on group projects and preserve your research for future reference. Created for the Spring 2025 U of I Information Landscape series.
+A presentation created for Alyssa Kreikemeier’s HIST424 Environmental History course on using embodiment in field recording, interviewing and utilizing oral history recordings to restructure scholarly work to the audio narrative medium and enrich your research.
 
 {% include toc.html %}
 
