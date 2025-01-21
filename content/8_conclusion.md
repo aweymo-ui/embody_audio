@@ -24,15 +24,15 @@ Moreover, the process of recording, observing and speaking to people in your are
 
 <br>
 
-1. Sellers, Christopher. “Thoreau’s Body: Towards an Embodied Environmental History.” Environmental History 4, no. 4 (October 1, 1999): 486–514. [https://doi.org/10.2307/3985398](https://doi.org/10.2307/3985398).
-2. Taylor, Hollis. “Field Recordings as Invitation and Transportation.” Continuum 38, no. 1 (January 2, 2024): 24–36. [https://doi.org/10.1080/10304312.2023.2234112](https://doi.org/10.1080/10304312.2023.2234112).
-3. Institute of Landscape and Urban Studies. “Melting Landscapes, by Institute of Landscape and Urban Studies.” Accessed January 16, 2025. [https://landscapearchitecture.bandcamp.com/album/melting-landscapes](https://landscapearchitecture.bandcamp.com/album/melting-landscapes).
-4. Daniel Menche. “From Here to Electricity, by Daniel Menche.” Accessed January 16, 2025. [https://danielmenche.bandcamp.com/album/from-here-to-electricity](https://danielmenche.bandcamp.com/album/from-here-to-electricity).
-5. Daniel Bachman. “Almanac Behind, by Daniel Bachman.” Accessed January 16, 2025. [https://danielbachman.bandcamp.com/album/almanac-behind](https://danielbachman.bandcamp.com/album/almanac-behind).
-6. Byers, Rob. “The Ear Training Guide for Audio Producers.” NPR Training, January 31, 2017. [https://training.npr.org/2017/01/31/the-ear-training-guide-for-audio-producers/](https://training.npr.org/2017/01/31/the-ear-training-guide-for-audio-producers/).
-7. Allison, Jay. “The Basics.” Transom, September 4, 2013. [https://transom.org/2013/the-basics/](https://transom.org/2013/the-basics/).
-8. Rosenthal, Rob. “Structure Interviews Like a Good Story.” Transom, June 17, 2024. [https://transom.org/2024/structure-interviews-like-a-good-story/](https://transom.org/2024/structure-interviews-like-a-good-story/).
-9. Rosenthal, Rob. “Story Structure: The ‘e.’” Transom, November 1, 2016. [https://transom.org/2016/story-structure-e/](https://transom.org/2016/story-structure-e/).
+1. Sellers, Christopher. “Thoreau’s Body: Towards an Embodied Environmental History.” Environmental History 4, no. 4 (October 1, 1999): 486–514. [https://doi.org/10.2307/3985398](https://doi.org/10.2307/3985398){:target="_blank" rel="noopener"}.
+2. Taylor, Hollis. “Field Recordings as Invitation and Transportation.” Continuum 38, no. 1 (January 2, 2024): 24–36. [https://doi.org/10.1080/10304312.2023.2234112](https://doi.org/10.1080/10304312.2023.2234112){:target="_blank" rel="noopener"}.
+3. Institute of Landscape and Urban Studies. “Melting Landscapes, by Institute of Landscape and Urban Studies.” Accessed January 16, 2025. [https://landscapearchitecture.bandcamp.com/album/melting-landscapes](https://landscapearchitecture.bandcamp.com/album/melting-landscapes){:target="_blank" rel="noopener"}.
+4. Daniel Menche. “From Here to Electricity, by Daniel Menche.” Accessed January 16, 2025. [https://danielmenche.bandcamp.com/album/from-here-to-electricity](https://danielmenche.bandcamp.com/album/from-here-to-electricity){:target="_blank" rel="noopener"}.
+5. Daniel Bachman. “Almanac Behind, by Daniel Bachman.” Accessed January 16, 2025. [https://danielbachman.bandcamp.com/album/almanac-behind](https://danielbachman.bandcamp.com/album/almanac-behind){:target="_blank" rel="noopener"}.
+6. Byers, Rob. “The Ear Training Guide for Audio Producers.” NPR Training, January 31, 2017. [https://training.npr.org/2017/01/31/the-ear-training-guide-for-audio-producers/](https://training.npr.org/2017/01/31/the-ear-training-guide-for-audio-producers/){:target="_blank" rel="noopener"}.
+7. Allison, Jay. “The Basics.” Transom, September 4, 2013. [https://transom.org/2013/the-basics/](https://transom.org/2013/the-basics/){:target="_blank" rel="noopener"}.
+8. Rosenthal, Rob. “Structure Interviews Like a Good Story.” Transom, June 17, 2024. [https://transom.org/2024/structure-interviews-like-a-good-story/](https://transom.org/2024/structure-interviews-like-a-good-story/){:target="_blank" rel="noopener"}.
+9. Rosenthal, Rob. “Story Structure: The ‘e.’” Transom, November 1, 2016. [https://transom.org/2016/story-structure-e/](https://transom.org/2016/story-structure-e/){:target="_blank" rel="noopener"}.
 
 
 

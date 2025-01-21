@@ -14,7 +14,7 @@ The practice of oral history initiatives in the United States was first populari
 
 <br>
 
-**As the Digital Initiatives Librarian**, one of the things I focus on is [transcribing our own oral history recordings](https://uidaholib.github.io/digital-collections-docs/content/transcription/00-intro.html) and creating subject tags so researchers can keyword search and make connections between material, whereas listening through audio linearly for material that may or may not be in a recording has previously made this material a little daunting to researchers. 
+**As the Digital Initiatives Librarian**, one of the things I focus on is [transcribing our own oral history recordings](https://uidaholib.github.io/digital-collections-docs/content/transcription/00-intro.html){:target="_blank" rel="noopener"} and creating subject tags so researchers can keyword search and make connections between material, whereas listening through audio linearly for material that may or may not be in a recording has previously made this material a little daunting to researchers. 
 
 <br>
 
