@@ -6,6 +6,8 @@ gallery: true
 
 <br>
 
+{% include gallery-figure.html img="em_07.jpg" alt="Reel to reel tape recorder with speakers and leather strap" caption="Nagra IIC portable tape recorder c. 1960" title="Nagra IIC portable tape recorder c. 1960" %}
+
 **Here are a few examples of field recording** being used to convey a sense of place and explore abstract concepts of environmental and climate change wordlessly.
 
 <div class="symbol-container">
@@ -35,6 +37,8 @@ The [last recording](https://danielbachman.bandcamp.com/track/wildfire-smoke-ove
 <br>
 
 **Sound experts tend to get extremely fancy** and expensive with their gear, but as these last three examples have demonstrated, finding an interesting area and documenting it from unique perspectives, distances and times of day or year are all that’s needed to add singular context to your audio narratives. There are a ton of entry level resources for audio recording but this [Ear Training Guide for Audio Producers](https://training.npr.org/2017/01/31/the-ear-training-guide-for-audio-producers/){:target="_blank" rel="noopener"} [<sup>6</sup>](8_conclusion.html#notes) from the folks at NPR is an extremely practical reference for wind buffeting, distortion, hisses and hums that you will encounter during field recording as well as editing and mixing challenges you may find in the later stages of development. 
+
+{% include gallery-figure.html img="studio.jpg" width="100%" alt="Student in glasses and scarf wearing headphones and speaking into a microphone in front of large dual monitors." caption="Student using equipment in The Studio" %} 
 
 All of the equipment you need for field recording is available at the Studio, a “dedicated space to students, staff, and faculty to record, edit, and digitize audiovisual content to support their teaching, learning, and creative pursuits at the University of Idaho.” Specific resources include a Tascam Portable Studio Recorder, Logitech headphones, Seagate Portable Drive and WiFi Hotspots as well as desktop computers with the editing software Audacity, GarageBand and, my preference, Adobe Audition. Here is the [full user guide](https://vandalsuidaho-my.sharepoint.com/:w:/g/personal/hanwendong_uidaho_edu/EZe6R_SuDnZCm2xK7vepWwsBbKSxVMyrv34ANJF66OFxSw?e=VHFEqq){:target="_blank" rel="noopener"}, the [list of video and audio equipment available](https://www.lib.uidaho.edu/studio/loanable.html) and [where you can reserve a space](https://libcal.uidaho.edu/reserve/AV){:target="_blank" rel="noopener"}.
 

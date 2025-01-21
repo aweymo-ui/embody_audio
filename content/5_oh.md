@@ -8,9 +8,7 @@ gallery: true
 
 **Another beneficial way to add voices and context to audio narratives** is to utilize oral history recordings. One of the advantages of working with oral history material is that it provides a contrast to the commonly accepted historical record by engaging with people outside of the academic community.
 
-<div class="symbol-container">
-    <p class="symbol">&#10042;</p>
-</div>
+{% include gallery-figure.html img="em_05.jpg" alt="A woman interviews a man in sunglasses at a table with a portable tape deck" caption="Mary Malone records Henry Higgs for the Woman's Club oral history project from a Miami Herald article of June 19, 1975, Courtesy Florida Keys History Center under CC license." title="Mary Malone records Henry Higgs for the Woman's Club oral history project from a Miami Herald article of June 19, 1975, Courtesy Florida Keys History Center under CC license." %}
 
 The practice of oral history initiatives in the United States was first popularized by the Federal Writers Project as a part of the Works Progress Administration in the 1930s and 40s. The first oral history office was created by Allan Nevins at Columbia University in 1948 but the key factor in the expansion of oral history initiatives was the refinement and affordability of portable tape machines. This happened to coincide with an academic interest in social history in the 1960s and 70s and a proliferation of centennial celebrations across the US that inspired oral history initiatives to document the lives of residents who lived through the turn of the century. Digital recording devices, smartphones and the internet have developed the medium farther, allowing remote interviews and community driven initiatives.
 
@@ -24,9 +22,9 @@ The practice of oral history initiatives in the United States was first populari
 
 <br>
 
-To provide an example of an audio narrative I worked on where oral history recordings were key was a piece called Mary Hillaire and the Lummi Nation: Self Determination. The [digital exhibit](https://collections.evergreen.edu/s/selfdetermination/page/Introduction){:target="_blank" rel="noopener"} (which has some corruptions in it since it was originally created *finger wag*) and [half hour long audio version](https://100tacks.bandcamp.com/album/mary-hillaire-and-the-lummi-nation-self-determination){:target="_blank" rel="noopener"} that I created detail the life of Coast Salish Lummi and adult higher education reformer Mary Hillaire through the dictaphone tapes they prolifically recorded during Hillaire’s tenure  at State College between 1971 to her passing in 1982. 
+To provide an example of an audio narrative I worked on where oral history recordings were key was a piece called *Mary Hillaire and the Lummi Nation: Self Determination*. The [digital exhibit](https://collections.evergreen.edu/s/selfdetermination/page/Introduction){:target="_blank" rel="noopener"} (which has some corruptions in it since it was originally created *finger wag*) and [half hour long audio version](https://100tacks.bandcamp.com/album/mary-hillaire-and-the-lummi-nation-self-determination){:target="_blank" rel="noopener"} that I created detail the life of Coast Salish Lummi and adult higher education reformer Mary Hillaire through the dictaphone tapes they prolifically recorded during Hillaire’s tenure  at State College between 1971 to her passing in 1982. 
 
-<br>
+{% include gallery-figure.html img="em_04.jpg" alt="Work print portrait of Mary Hillaire posing in wool against a tree" caption="Work print portrait of Mary Hillaire" title="Portrait of Mary Hillaire" %}
 
 **The mountain of [2142 audio cassettes](https://archiveswest.orbiscascade.org/ark:80444/xv44659){:target="_blank" rel="noopener"}** was extremely daunting for archivists to work through–recording quality was often very low, sometimes the dictaphone was placed on surfaces that were prone to distortion and Hillaire’s oratory style, as she monologues in satellite class rooms on reservations across the Olympia, recapped her day and even recorded phone conversations, could be difficult to follow at times. Through sampling different areas of the tapes over time, conducting contemporary interviews with people that worked with Hillaire and composing a simple soundtrack using the clicks and pops of the tapes themselves, I created an audio narrative that paints a necessarily complicated portrait of a reformer that was perpetually at odds both with her largely White, supposedly progressive administration and her Indigenous community, who made Hilliare feel that she had compromised her values by working inside the institution.
 
@@ -37,8 +35,6 @@ To provide an example of an audio narrative I worked on where oral history recor
 <br>
 
 {% include feature/audio.html objectid="/images/em_03.mp3" %}
-
-{% include feature/alert.html text="What were some of the different elements that you heard? What are the primary sources and what were other types of sources I was maybe narrating?" color="light" align="right" %}
 
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>

@@ -8,15 +8,13 @@ gallery: true
 
 **The final element to consider during your editing process** is the addition of sound effects and music. I find it helpful to think of these elements like punctuation or using a different style of font for a few paragraphs. These can help give the listener a sense of place in history, where recordings of what it would have actually sounded like may not exist. Listen to this excerpt of the Tideflats project I mentioned earlier and try to identify what elements are woven into the narrative and how they might be used to orient the listener:
 
-<br>
+{% include gallery-figure.html img="carstens_35_020101_1445.jpg" alt="Photo of a row of simple houses on muddy land, connected by a series of wooden decks" caption="Houses on the Tideflats, ca. 1938, Courtesy Tacoma Northwest Room (A7037-3)." title="Houses on the Tideflats, ca. 1938, Courtesy Tacoma Northwest Room (A7037-3)." %}
 
 {% include feature/audio.html objectid="/images/tideflats_excerpts.mp3" %}
 
 {% include feature/alert.html text="What were some of the different elements that you heard? What are the primary sources and what were other types of sources I was maybe narrating?" color="light" align="right" %}
 
-<div class="symbol-container">
-    <p class="symbol">&#10042;</p>
-</div>
+{% include gallery-figure.html img="carstens_33_020108_27706.jpg" alt="Two people sparing with kendo masks and wooden swords in Tacoma, overlooking a hillside" caption="Rev. Jokatsu Yukawa and an unknown person sparring in Kendo masks and wooden swords, ca. 1930s, Courtesy Tacoma Northwest Room (BOWEN G39.1-194)." title="Rev. Jokatsu Yukawa and an unknown person sparring in Kendo masks and wooden swords, ca. 1930s, Courtesy Tacoma Northwest Room (BOWEN G39.1-194)." %}
 
 In that recording, a summary of elements might be:
 

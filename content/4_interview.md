@@ -21,7 +21,7 @@ In a Norwegian paper titled *Exploring The Impact of Interview Location on Knowl
 
 ## Example
 
-<br>
+{% include gallery-figure.html img="em_08.png" width="100%" alt="Person standing in front of large display of a bear in front of mining equipment covered in prunes." caption="The Prune Bear" %}
 
 This was part of a public history series that I produced a while ago that explored the history of an area through labor, agriculture and architecture. This particular show was looking at the history of the Oregon prune industry (the ultimately defeated rival to California's raisin industry) by researching a giant, animatronic bear covered in prunes at the Lewis and Clark Exposition that was able roar thanks to a photograph somewhere inside of it. In this short audio excerpt, I am interviewing third generation orchardist Jenna Fischer inside her grandfather's 100 year old prune drying barn, which acts a little like a giant oven. Touring the area and interacting with the different tools brings back happy childhood memories for Fischer:
 
